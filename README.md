@@ -1,5 +1,5 @@
 # json-csv
-System that converts each JSON file to CSV and saves it to disk.
+System that converts each JSON file to CSV (TSV, XML) and saves it to disk.
 
 Needs to open config/config.php and set up:
 
